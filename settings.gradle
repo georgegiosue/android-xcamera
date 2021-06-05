@@ -1,0 +1,3 @@
+rootProject.name = "xcameralb"
+include ':app'
+include ':xcamera'
